@@ -1,6 +1,6 @@
 # Atividade 2 +prati
 
-Este repositório contém os códigos para a Atividade 1 do programa +prati.
+Este repositório contém os códigos para a Atividade 2 do programa +prati.
 
 ## Pré-requisitos
 
@@ -12,7 +12,7 @@ Este repositório contém os códigos para a Atividade 1 do programa +prati.
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/Salvadorri/MaisPraTi-Atividade-1
+   git clone https://github.com/Salvadorri/MaisPraTi-Atividade-2
    ```
 
 ## Executando os códigos
