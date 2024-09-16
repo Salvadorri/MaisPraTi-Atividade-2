@@ -1,6 +1,6 @@
 const funcionarios = [
     { nome: 'Rodrigo', cargo: 'Engenheira', salario: 6000 },
-    { nome: 'Alicia', cargo: 'Analista', salario: 4500 },
+    { nome: 'Alicia', cargo: 'Analista', salario: 4400 },
     { nome: 'Kleber', cargo: 'Gerente', salario: 8500 },
     { nome: 'Juninho', cargo: 'Desenvolvedor', salario: 5500 },
     { nome: 'Geraldo', cargo: 'Apresentador', salario: 9200 }

@@ -2,7 +2,7 @@ const produto = {
   nome: "Teclado",
   preco: 300,
   estoque: 30,
-  peso: 1.5,
+  peso: 2,
   ano: 2024,
   desconto: 10,
 };

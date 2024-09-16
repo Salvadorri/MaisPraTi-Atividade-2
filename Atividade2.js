@@ -1,9 +1,8 @@
 const livro = {
-  titulo: "Dom Quixote",
-  autor: "Miguel de Cervantes",
-  anoPublicacao: 1605,
-  genero: "Romance",
-  // editora: 'Editora Exemplo'// Descomentar para testar se o código percebe se tem existe uma editora
+  titulo: "Battlefield 4: Contagem Regressiva",
+  autor: "Peter Grimsdale",
+  ano: 2014,
+  genero: "Ação",
 };
 
 let temEditora = false;
@@ -19,9 +18,9 @@ console.log(livro);
 
 if (!temEditora) {
   livro.editora = "Editora Exemplo";
-  console.log("Propriedade 'editora' foi adicionada ao objeto livro.");
+  console.log("Propriedade 'editora' foi adicionada ao livro.");
 } else {
-  console.log("A propriedade 'editora' já existe no objeto livro.");
+  console.log("A propriedade 'editora' já existe no livro.");
 }
 
 console.log(livro);
